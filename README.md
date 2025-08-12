@@ -1,5 +1,5 @@
 
-# NRF24L01+PA+LNA | 6-Channel Wireless Transmitter & Receiver Using Arduino Nano
+# NRF24L01+PA+LNA | 6-Channel Wireless Transmitter & Receiver Using Arduino Nano 
 
 This project is a 6-channel wireless transmitter and receiver system built using the **NRF24L01+PA+LNA** module and **Arduino Nano**. It's designed to provide robust and long-range wireless communication for controlling robots, drones, or other RC applications.
 
